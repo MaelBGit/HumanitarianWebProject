@@ -1,0 +1,10 @@
+{
+  "name"         : "node-web-humanitarian",
+  "version"      : "0.0.1",
+  "description"  : "offering sleeping places",
+  "main"         : "main.js",
+  "author"       : "Mweydert",
+  "dependencies" : {
+	"aws-sdk": "latest"
+  }
+}
